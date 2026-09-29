@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f5f7fb;
+  color: #212529;
+}
+
+a {
+  text-decoration: none;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.student-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.student-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08) !important;
+}
+
+.student-photo {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.navbar-brand {
+  letter-spacing: 0.2px;
+}
+
+.page-title {
+  font-weight: 700;
+}
+
+.stat-card {
+  border: 0;
+  border-radius: 14px;
+}
+
+.form-control:focus,
+.form-select:focus {
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.12);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

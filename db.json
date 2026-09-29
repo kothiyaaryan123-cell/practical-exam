@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Rahul Patel",
+      "phone": "9876543210",
+      "email": "rahul@gmail.com",
+      "age": 21,
+      "class": "BCA",
+      "rollNumber": "BCA001",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "2",
+      "name": "Priya Shah",
+      "phone": "9876501234",
+      "email": "priya@gmail.com",
+      "age": 20,
+      "class": "BCA",
+      "rollNumber": "BCA002",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": "3",
+      "name": "Amit Joshi",
+      "phone": "9988776655",
+      "email": "amit@gmail.com",
+      "age": 22,
+      "class": "MCA",
+      "rollNumber": "MCA001",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=33"
+    },
+    {
+      "id": "4",
+      "name": "Neha Mehta",
+      "phone": "9898989898",
+      "email": "neha@gmail.com",
+      "age": 21,
+      "class": "BBA",
+      "rollNumber": "BBA001",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=44"
+    }
+  ]
+}
